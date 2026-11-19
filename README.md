@@ -1,5 +1,5 @@
 # service-commercial
-# 🚀 [Nom de votre Entreprise / Service] — Solutions IA & Automatisation
+# 🚀FluxIA — Solutions IA & Automatisation
 
 > **Accélérez votre croissance et automatisez vos processus métiers grâce à des solutions d'Intelligence Artificielle sur mesure.**
 
